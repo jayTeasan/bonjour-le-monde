@@ -1,2 +1,2 @@
 # bonjour-le-monde
-its a hello-world-opener modulated in French Toast.
+its a hello-world-opener modulated as French Toast.
